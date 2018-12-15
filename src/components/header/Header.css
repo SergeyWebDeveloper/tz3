@@ -1,0 +1,23 @@
+.ant-layout .header {
+    line-height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 10vh;
+}
+
+.header-menu__ul {
+    margin: 0;
+    padding: 0;
+}
+
+.header-sign {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-sign__name {
+    color: #fff;
+    margin: 0 5px 0 0;
+}

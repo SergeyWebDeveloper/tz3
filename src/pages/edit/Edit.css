@@ -1,0 +1,12 @@
+.edit-card .card-input {
+    margin-bottom: 30px;
+    display: block;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button+button {
+    margin-left: 10px;
+}

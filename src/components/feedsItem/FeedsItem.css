@@ -1,0 +1,32 @@
+.feeds-item {
+    margin-bottom: 20px;
+}
+
+.feeds-item .ant-card-head-wrapper {
+    align-items: flex-start;
+}
+
+.feeds-item .ant-card {
+    margin-bottom: 10px;
+}
+
+.feeds-item .ant-btn + .ant-btn {
+    margin-left: 10px;
+}
+
+.feeds-item .anticon {
+    font-size: 20px;
+}
+
+.feeds-item .anticon-close {
+    color: #08c;
+}
+
+.ant-card-extra__link {
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.ant-card-head-title {
+    margin-right: 15px;
+}

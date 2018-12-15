@@ -1,0 +1,5 @@
+export const LOAD_FEED_START = "LOAD_FEED_START";
+export const LOAD_FEED_SUCCESS = "LOAD_FEED_SUCCESS";
+export const RESET_FEED = "RESET_FEED";
+export const DELETE_FEED_START = "DELETE_FEED_START";
+export const SAVE_FEED = "SAVE_FEED";

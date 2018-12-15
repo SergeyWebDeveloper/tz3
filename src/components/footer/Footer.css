@@ -1,0 +1,15 @@
+.ant-layout .ant-layout-footer {
+    background: #001529;
+    color: #fff;
+}
+
+.footer-text {
+    margin-bottom: 0;
+}
+
+.ant-layout .ant-layout-footer {
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
